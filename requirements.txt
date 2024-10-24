@@ -1,0 +1,21 @@
+# Data Manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Clustering
+scikit-learn
+scipy
+
+# Neural Networks (Keras)
+keras
+tensorflow
+
+# Gaussian Mixture Models (GMM)
+sklearn
+
+# Additional Tools
+jupyterlab
